@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Top horizontal bar -->
+  <rect x="6" y="4" width="20" height="4" rx="2" fill="#000"/>
+  
+  <!-- Central "2" -->
+  <path d="M 8 11 Q 8 8, 11 8 L 21 8 Q 24 8, 24 11 L 24 14 Q 24 17, 21 17 L 11 17 Q 8 17, 8 14 L 8 12" 
+        fill="#000" stroke="#000" stroke-width="1"/>
+  
+  <!-- Bottom horizontal bar -->
+  <rect x="6" y="24" width="20" height="4" rx="2" fill="#000"/>
+</svg>
